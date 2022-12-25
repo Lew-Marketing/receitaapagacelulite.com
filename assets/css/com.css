@@ -348,3 +348,9 @@ button:hover::after, button:focus::after {
     opacity: 0;
   }
 }
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
